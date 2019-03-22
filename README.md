@@ -1,6 +1,29 @@
 # 2019 Spring NCTS Course - Python ML & AI Intro. (Student Works)
 
-這是「Python 機器學習與人工智慧入門」課程學生 [Wei-Pin Hsiao](https://www.facebook.com/weipin.hsiao.1) 的公開成果，所有成果接放在 [AI_Math/student_hwp_work/](https://github.com/PeterHsi/AI_Math/tree/master/student_hwp_work) 資料夾下，其餘皆為老師在 GitHub 上公開分享之課程檔案。
+這是「Python 機器學習與人工智慧入門」課程學生 [Wei-Pin Hsiao](https://www.facebook.com/weipin.hsiao.1) 的公開成果，所有成果皆放在 [AI_Math/student_hwp_work/](https://github.com/PeterHsi/AI_Math/tree/master/student_hwp_work) 資料夾下供交流學習使用，其餘皆為老師在 GitHub 上公開分享之課程檔案
+
+## 作業
+
+目前已公開作業如下：
+
+- [HW1-1](https://github.com/PeterHsi/AI_Math/blob/master/student_hwp_work/20190222%20NCTS%20AI%20MATH%20-%20HW1_1.ipynb)：繪圖作業，嘗試繪出 Iris data 的散布圖
+- [HW1-2](https://github.com/PeterHsi/AI_Math/blob/master/student_hwp_work/20190225%20NCTS%20AI%20MATH%20-%20HW1_2.ipynb)：學生嘗試熟悉 Python 基礎語法，由於 1-1 已經自行嘗試過迴圈、讀入外部資料檔，故此作業嘗試熟悉自訂義函數與呼值方式，並試圖僅以型別更動函數、基本數學運算符、find 函式，建構自訂義四捨五入函數
+- [HW2-1](https://github.com/PeterHsi/AI_Math/blob/master/student_hwp_work/20190309%20NCTS%20AI%20MATH%20-%20HW2_1.ipynb)：利用 ipywidgets 的 interact，來製作中央極限定理的互動教學小程式
+- [HW3-2](https://github.com/PeterHsi/AI_Math/blob/master/student_hwp_work/20190320%20NCTS%20AI%20MATH%20-%20HW3_2.ipynb)：熟悉 NumPy，由於 NumPy 可以執行矩陣運算，故嘗試利用矩陣運算自行撰寫 Fuzzy C-Mean 演算法，並嘗試比較相同資料跟相同精度下，自行撰寫之函數是否比公開 Package 還快
+
+## 上課筆記
+
+其中個人筆記與課外學習放置於 [AI_Math/student_hwp_work/Note and Learn/](https://github.com/PeterHsi/AI_Math/tree/master/student_hwp_work/Note%20and%20Learn)
+
+## 工具使用心得分享
+
+有關已發表公開之 Markdown 學習資料如下：
+
+- [.md Guide](https://hackmd.io/p/Byk-LDoDV#/)：講述一些 markdown 文檔的使用方式，主要集中在做學習資料跟分享報告上
+  - 其原始為報失敗的 [3/8 閃電秀](https://hackmd.io/p/SyrVwwF8V#/)
+  - 更多有關於如何用 Rmarkdown 的內容個人曾經另外分享過 [快速上手數學報告](https://hackmd.io/c/HyJ0JKdhX/) 系列文，有興趣者可以參考  
+- [JupyterLab 調整懶人包](https://hackmd.io/p/BkWDdZOwN#/)
+  - 詳細學習筆記請至 [Jupyter 校調學習日誌](https://hackmd.io/c/Sy_DHe8DE/) 參考，由於目前個人正在拚論文當中，暫停更新。
 
 (以下為課程原始說明檔)
 
