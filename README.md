@@ -1,3 +1,11 @@
+# 2019 Spring NCTS Course - Python ML & AI Intro. (Student Works)
+
+這是「Python 機器學習與人工智慧入門」課程學生 [Wei-Pin Hsiao](https://www.facebook.com/weipin.hsiao.1) 的公開成果，所有成果接放在 [AI_Math/student_hwp_work/](https://github.com/PeterHsi/AI_Math/tree/master/student_hwp_work) 資料夾下，其餘皆為老師在 GitHub 上公開分享之課程檔案。
+
+(以下為課程原始說明檔)
+
+---
+
 ![課程圖示](images/course_title.jpeg)
 
 # Python 機器學習與人工智慧入門
