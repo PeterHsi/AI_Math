@@ -2,6 +2,8 @@
 
 [TOC]
 
+上課程式碼：[04. 數學計算的二三事.ipynb](https://nbviewer.jupyter.org/github/yenlung/AI_Math/blob/master/04.%20%E6%95%B8%E5%AD%B8%E8%A8%88%E7%AE%97%E7%9A%84%E4%BA%8C%E4%B8%89%E4%BA%8B.ipynb)、[0315TAcode.ipynb](https://nbviewer.jupyter.org/github/yenlung/AI_Math/blob/master/0315TAcode.ipynb)
+
 ## 04-01 用電腦來學習
 
 > 老師說上次作業同學有趣題目都不夠詳細 (要說明大致會需要從哪裡得到那些資料、大致需要如何處理或分析資料、然後要如何有結果)

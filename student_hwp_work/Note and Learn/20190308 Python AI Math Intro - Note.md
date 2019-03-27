@@ -16,6 +16,9 @@
 
   [03. Python 資料分析主流環境 Jupyter.ipynb](https://github.com/yenlung/AI_Math/blob/master/03.%20Python%20%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E4%B8%BB%E6%B5%81%E7%92%B0%E5%A2%83%20Jupyter.ipynb)
 
+  [0308TAcode.ipynb](https://nbviewer.jupyter.org/github/yenlung/AI_Math/blob/master/0308TAcode.ipynb)
+
+
 ## Python Code Intro
 
 ### 輸入 Package、畫圖(上次上課)
