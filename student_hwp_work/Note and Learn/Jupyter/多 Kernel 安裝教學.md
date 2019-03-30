@@ -86,7 +86,7 @@ Pkg.add("IJulia")
 使用如下指令反安裝 kernel
 
 ```shell=
-jupyter kernelspec kernel名稱
+jupyter kernelspec uninstall kernel名稱
 ```
 
 假如忘記名稱怎麼辦？使用如下指令查詢已安裝的 kernel
