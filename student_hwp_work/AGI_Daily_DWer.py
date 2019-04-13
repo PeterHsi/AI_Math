@@ -31,7 +31,7 @@ AnimeInfo = pd.DataFrame(
      'number': number
      })
 AnimeInfo['date'] = datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S")
-AnimeInfo.drop_duplicates(inplace = TRUE)
+AnimeInfo.drop_duplicates(inplace = True)
 
 tsp = datetime.datetime.now().strftime("%Y%m%d-%H%M")
 if not os.path.exists(pathlib.PurePath('DailyData/')):
